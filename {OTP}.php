@@ -1,11 +1,6 @@
 <?php
 
-# Free Recode
-# Kalo lu baik hati, Jangan lupa kasih credit gw yak
-# Updated 03 April 2025
-
-#WARNA
-efunction color($color = "default" , $text  = null)
+function color($color = "default" , $text  = null)
     {
         $arrayColor = array(
             'black_bg'   => '1;40',
