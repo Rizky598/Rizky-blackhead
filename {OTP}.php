@@ -251,11 +251,6 @@ echo color("green"," 1: Whatsapp[OTP]\n");
 echo color("green"," 2: Komen teks\n");
 echo color("yellow"," 3: Grup WhatsApp\n\n");
 echo color("green"," Pilih : ");
-echo color("red","==================================================\n");
-
-color("red","pp\n");
-
-echo color("red","==================================================\n");
 $aaa1 = trim(fgets(STDIN));
 if ($aaa1 == 1) {
   goto whatsapp;
