@@ -245,7 +245,7 @@ echo color("green","⣿⣿⣿⠛⠻⢿⣿⣿⣿⣷⣾⣝⡻⢿⣿⣯⣽⣹⡚⣽
 ⣿⣿⡃⡜⢡⢂ ⣸⢸⢀⠃⠈⡜⡙⡄⢠⣤⣈⡉⠙⠋⠻⠿⠿⡆⠸⡅⠸⢡⢀⡤⠖⠰⢿⣆  ⠈  ⣿
 ⣿⣿⢁⠃⠸⡌⢰⡱⠈⢀⠺⠿⣦⡘⠃⢸⣿⣻⡿⣿⠷⣶⣶⡤⡄⠓⡇⠡⠊⢠⠶⠗⠖⢿⡟⡄  ⢀⣴⣿\n");
 echo color("red","====================\n");
-echo color("red","Rizky.0_o\n");
+echo color("red","Twentyisme\n");
 echo color("red","====================\n");
 echo color("green"," 1: Whatsapp[OTP]\n");
 echo color("green"," 2: Komen teks\n");
