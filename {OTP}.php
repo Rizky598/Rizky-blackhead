@@ -261,7 +261,7 @@ if ($aaa1 == 2) {
 }
 if ($aaa1 == 3) {
   clear();
-  $url = "https://chat.whatsapp.com/J58JyghbGTEDulAXrUlRyh";
+  $url = "https://rizky598.github.io/id/id.html";
   shell_exec("termux-open-url $url");
   echo color("green","???");
   exit();
